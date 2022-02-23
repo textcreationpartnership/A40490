@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly debate upon the next elections of Parliament and the settlement of liberty of conscience in a dialogue between a city and country elector. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40490</idno>
+            <idno type="STC">Wing F2218C</idno>
+            <idno type="STC">ESTC P2642</idno>
+            <idno type="EEBO-CITATION">99832864</idno>
+            <idno type="PROQUEST">99832864</idno>
+            <idno type="VID">37339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2187:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly debate upon the next elections of Parliament and the settlement of liberty of conscience in a dialogue between a city and country elector. With allowance.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>At end of text: Numb. 3.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  England --  Early works to 1800.</term>
+               <term>Elections --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:37339:1" rendition="simple:additions"/>
+            <head>A Friendly Debate Upon the next ELECTIONS OF PARLIAMENT And the Settlement of <hi>
+                  <hi>Liberty of Conſcience,</hi> In a Dialogue between a City and Country</hi> ELECTOR.</head>
+            <head type="sub">With Allowance.</head>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>WELL Friend, you have pro<g ref="char:EOLhyphen"/>mis'd great and wonderful Things, if you are but able to performe them. And ſince you are ſo ſet agog upon ſuch <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Settlement of</hi> Religious Liberty, <hi>and there's like to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſuch bandying for</hi> Parliament Men <hi>to go through <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith the Work, that our</hi> Penal Laws <hi>and</hi> Teſt <hi>and all like the old Walls of</hi> Troy, <hi>to let in the</hi> Grecian Horſe) <hi>muſt be pull'd down to make room for it; What <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t you if you begin with the</hi> Penal Laws? <hi>and <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nce they carry the more venerable Antiquity of the two, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ant your firſt Battery, and try your firſt Artillery <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gainſt thoſe elder Fortifications of our Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>With all my Heart. And as I remember, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our tenderneſs for their Preſervation proceeded, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you declared, from the <hi>Neceſſity</hi> and <hi>Validity</hi> of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch Laws for the Defence of our Church, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Danger</hi> threatned Her from their Repeal; to<g ref="char:EOLhyphen"/>gether with your Juſtification of the <hi>Equity</hi> of <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oſe Laws, from the <hi>Wiſdom</hi> and <hi>Zeal</hi> of our <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pious Reformers that founded them, and the continued Induſtry of all our latter Law-makers in ſo religiouſſy and conſtantly maintaining of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Yes, much to that Tenure were the Poſitions I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id down.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>To begin therefore, and anſwer firſt to <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur <hi>Dangers, &amp;c.</hi> Let us enquire what our <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urch has loſt by <hi>Liberty of Conſcience</hi> hitherto, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nath that meanes make ſome reaſonable Exami<g ref="char:EOLhyphen"/>nati<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to her <hi>future</hi> Danger, by a true View and Survey <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi> preſent.</hi>
+               </p>
+               <p>The King you ſee has already granted all Men their <hi>Liberty of Conſcience,</hi> by vertue of which Li<g ref="char:EOLhyphen"/>berty they have the freedom of Preaching, Pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, <hi>&amp;c.</hi> without any let or moleſtation whatever. And y'will allow that a Univerſal Toleration, by Act of Parliament, can open their Meeting-Houſe Doors no wider then an Univerſal Indulgence has already done.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>You are t'th right for that. For the paſſage, I confeſs, is as free where the Gates are ſet open, as where they'r thrown off the Hinges, and ſo an</hi> Indul<g ref="char:EOLhyphen"/>ged Liberty, <hi>or a</hi> Magna Charta <hi>one is much alike for that. But pray what would you infer from thence?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Only to ask you, what viſible loſs has the <hi>Church of England</hi> ſuſtained by this Religious Li<g ref="char:EOLhyphen"/>berty. I ſuppoſe when you go to Church your ſelf, you are not ſo wholy taken up with your Devotion, but you can now and then ſpare half a Minute to look about you, and ſee what Company you have there: And pray do you find any appa<g ref="char:EOLhyphen"/>rent Diminution or Leſſening of your Auditory ſince this Indulgence.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Why truly now you put me to it, I think very little; But, cry you mercy, upon recollection, I have lately miſt ſome few of our Congregation, particularly no leſs then three or four Eminent Pariſhioners, ſome<g ref="char:EOLhyphen"/>times</hi> Diſſenters, <hi>that during the late Execution of our</hi> Penal Laws, <hi>to my ſpecial obſervation came to Church, and are ſince faln off again. By the ſame token they u<g ref="char:EOLhyphen"/>ſed to peep in juſt once a Mouth and no more, (but bet<g ref="char:EOLhyphen"/>ter once then never) and mark you me, they nickt it ſo prettily, that they made their entry juſt after the exit of the</hi> Common Prayer, <hi>or if by chance they came with<g ref="char:EOLhyphen"/>in three or four cloſing Lines of it, 'twas as much as e<g ref="char:EOLhyphen"/>ver I ſaw 'em ſtrain to. And truly when thoſe whole<g ref="char:EOLhyphen"/>ſome good Laws were put in Execution, we might have brought a great many more of our Diſſenting Pariſhio<g ref="char:EOLhyphen"/>ners to Church too, but that the remiſs</hi> Juſtice of Peace <hi>of our Precinct was a little too tender hearted.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Then I warrant, the reſt of your Diſſenting
+<pb facs="tcp:37339:2"/>Pariſhioners were of the <hi>poorer</hi> ſort, and your <hi>Juſtice at Peace</hi> did did not think them worth the Proſecution.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon my Word you hit him to a Hair. Tru<g ref="char:EOLhyphen"/>ly that worthy Gentleman (His only fault, he was too good Natured for the Authority he bore) was obſer<g ref="char:EOLhyphen"/>ved never to Proſecute any of our</hi> Diſſenters, <hi>but the topping Men amongſt them, the Richeſt and Fatteſt of them: However he did not make Cobweb Law-work on't, to his praiſe be it ſpoken, though he ſuffered the Weak to ſlip through, I aſſure you he nooſed the Grand<g ref="char:EOLhyphen"/>dees to ſome purpoſe, ſo ſued them, and fined them, and danced them from piller to poſt,</hi> &amp;c. <hi>And truly to ſhew you what Bleſſings of God attended him for this</hi> Zeal <hi>and</hi> Pains taking <hi>in the Churches Cauſe, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> remarkable, that in our late two or three Years Raign of our</hi> Penal Laws, <hi>he thrived better and grew richer then in twenty Years together before he had his Commiſ<g ref="char:EOLhyphen"/>ſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>A <hi>Juſtice of Peace</hi> Thrive and grow Rich with three Years <hi>Penal Laws!</hi> Why Friend, that high Harveſt Time well managed was enough to have made them all <hi>Aldermen.</hi> I warrant you this <hi>Juſtice</hi> of yours recoverd ſwinging and thumping Fines upon Fines from them, as you talk'd before, for theſe obſtinate Noncons I doubt not would en<g ref="char:EOLhyphen"/>dure hard ſqueezing before they'd Buckle.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>Fines! <hi>Ay, and well they ſcaped ſo. He might have indicted them upon the</hi> 35th <hi>of</hi> Elizabeth, <hi>and then nothing but</hi> Abjuration <hi>and</hi> Baniſhment <hi>would have ſerved their turns. But merciful good Man, he contented himſelf with only pouring out the milder Vials of our ſofteſt Penal Wrath, in the puniſhment of their Pockets and Eſtates, by</hi> Confiſcations, Sequeſtra<g ref="char:EOLhyphen"/>tions, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Now pray be ſo kind as to ſatisfie one Cu<g ref="char:EOLhyphen"/>rioſity of mine.</p>
+            </sp>
+            <sp>
+               <speaker>Coan.</speaker>
+               <p>
+                  <hi>What's that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>How many of theſe <hi>Fines, Confiſcations, Sequeſtrations, &amp;c.</hi> you ſpeak of, did this merci<g ref="char:EOLhyphen"/>ful good Juſtice of Peace return into the <hi>Exche<g ref="char:EOLhyphen"/>quer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Humh! The Exchequer!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I Friend, prethee don't ſhrug at it, but for once be candid, and anſwer this Point; ſay, how many of them did he return into the Exche<g ref="char:EOLhyphen"/>quer?</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Truly if I muſt out with it, I am afraid but few or none, that is, if the preſent outcrys of the vexatious</hi> Diſſenters <hi>be true, as I hope they are not, for alas there's little credit to be given to ſo litigious and clamorous a Generation. However poor Man he is prudently and timely retired, to be out of the malicious noiſe of them. And what if after all, he was a little</hi> ſlow <hi>or</hi> tardy <hi>as they call it, now and then in ſome of thoſe Chequer Returns, I hope it was no ſuch impardon<g ref="char:EOLhyphen"/>able Crime to make ſpoyl of the</hi> Egyptians; <hi>beſides His then Gracious Majeſty, Heavens Peace be with Him, did not ſo much want it perhaps as He, and ſeveral of thoſe honeſt Gentlemen in his Poſt might do. And if they did not foreſee or fore think of an after Reckoning, and poſſibly might be tempted on a preſent occaſion to make bold in that caſe? probably too, like</hi> Judas Thirty Pence, <hi>they might not think it worth the</hi> Royal Trea<g ref="char:EOLhyphen"/>ſury, <hi>and therefore might lay it out in a</hi> Potters Field, <hi>or a</hi> Daughters Portion, <hi>or ſo. Alas, what then! Envy it ſelf can't ſay, but He and indeed all the reſt of thoſe worthy Gentlemen under the ſame Dilemma, if they did ſink a little, as they call it, into a by Pocket of their own, I am ſure they</hi> deſerv'd <hi>it all: To be at the daily charge of Scouts and Pickerouns their Informers, and to ſpend ſo much in March Beer and other good for<g ref="char:EOLhyphen"/>tifying Liquors, beſides ſo much good Breath in</hi> Hal<g ref="char:EOLhyphen"/>loo's <hi>to hearten on the cold-ſcented</hi> Conſtables <hi>to hunt down the</hi> Conventicles. <hi>And do you think after all, that ſuch hard Labourers in our</hi> Church Vinyard <hi>de<g ref="char:EOLhyphen"/>ſerved nothing? Did they not toyl and threſh in the cauſe to recover thoſe Fines,</hi> &amp;c.? <hi>And have we not an expreſs Command, that</hi> we ſhall not muzle the Ox that treads out the Corn.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Prethee for ſhame, no more of this Banter! was the high and mighty Zeal of our late Church Champions, our Indefatigable Magiſtrates, in executing the <hi>Penal Laws,</hi> no more then a Reli<g ref="char:EOLhyphen"/>gious <hi>Money Trap?</hi> Was the upholding our Church by puniſhing <hi>Diſſenters,</hi> intended, as we are made believe, for the Propagating of Apoſto<g ref="char:EOLhyphen"/>lick Truth, and <hi>Converſion</hi> of <hi>Soules,</hi> and the in<g ref="char:EOLhyphen"/>tended <hi>Service of God;</hi> no more at the Bottom then a falſe cover for the robbing of <hi>Caeſar?</hi> But to leave thoſe private (I might ſay general) faults lying at the doors of the Guilty, and come to the merit of our <hi>Penal Laws;</hi> what operation have theſe <hi>Penal Laws</hi> made, (theſe Laws that the <hi>Declaration</hi> ſo wiſely obſerves, never anſwered the Ends they were deſign'd for) any more then to drive a few <hi>Diſſemblers,</hi> into our Church; a handful of <hi>Diſſenters,</hi> that poſſibly in tenderneſs to their Wives and Children, and not prepared for a voyage to <hi>Carolina</hi> or <hi>Penſylvania,</hi> ſtrained Conſcience to temporiſe with <hi>Neceſſity;</hi> and ſo only peept into Church, as you obſerved, once a Month to ſave their Bacon. And do all the great and wonderful <hi>Penal Feats</hi> and <hi>Atcheive<g ref="char:EOLhyphen"/>ments</hi> terminate only in making a few Hypocrites, inſtead of Converts.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Why truly now you talk of Hypocrites, I think indeed but few of our compulſion'd Conformiſts came to Church heartily.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Did they not ſo? I need not then re<g ref="char:EOLhyphen"/>count the loud and woful <hi>Anathemas</hi> pronounced againſt Hypocrites, and much louder undoubted<g ref="char:EOLhyphen"/>ly muſt the Eſtabliſhers and Executors of ſuch Laws deſerve, that compel, wrack and torture Men out of their true Zeal and Piety, into ſuch falſe and pernicious Hypocrifie. And conſequently how little of Chriſtianity can dwell under the Roofe of ſuch rotten Fabricks: And after all if meer Policy and Reputation of a Church, were the only argument for her conduct in that point; how much more to Her credit is it to have her Congregations compoſed of all her own true and zealous profeſſors; then to cram in ſuch a mun<g ref="char:EOLhyphen"/>gril ſort of Proſelites, to diſgrace the Flock they herd with; and what a Derogation to the very glory of God muſt it be, where the Unanimity of Prayers and Praiſes, and an intended <hi>Harmo<g ref="char:EOLhyphen"/>ny</hi> of Hearts in ſo ſacred a Work as that of De<g ref="char:EOLhyphen"/>votion, is ſo manifeſtly <hi>Diſjoynted</hi> and <hi>Diſſordered</hi> by ſuch a <hi>Babel Confuſion</hi> of Worſhipers; and therefore with what more honourable and fairer face (under the Diſpenſation of Indulgence) does our Eccleſiaſtical Conſtitution appear, where our <hi>Temples</hi> and <hi>Altars</hi> are not reproacht <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or profan<g ref="char:EOLhyphen"/>ed I might ſay, by ſo ſcandalous a mixture of Communicants.</p>
+            </sp>
+            <pb facs="tcp:37339:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Indeed Friend, I do acknowledge that the Executing of the</hi> Penal Laws <hi>have rarely produced any greater effects then thoſe you mention, as having truly (more's the pitty) wrought but very few real Converſions, (for theſe ſtif-neckt</hi> Diſſenters <hi>are an incorrgible ſort of obſtinates) but however, is an honeſt good Law to be condemned, for no other Defect then want of Power to reſtrain Offenders; you may as well at that rate arraign the ten Commandments, nay the very Goſpel it ſelf; for all the Irreligion and Athe<g ref="char:EOLhyphen"/>iſme of the Age.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Nay Friend, ſtop a little there; the De<g ref="char:EOLhyphen"/>fect of theſe <hi>Penal Laws,</hi> lyes not only in their want of Power to reſtrain Offenders, as you call e'm; for that part of their Defect arraigns on<g ref="char:EOLhyphen"/>ly the Policy of thoſe that made them, and is the leaſt part of their fault; but their greateſt and moſt capital Defect is, that the very Tenure and ſubject matter of thoſe Laws is altogether inexcuſable.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>You will do well to make out all that Charge againſt them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Alas, the every days Arguments on this ſubject, are ſo publick and ſo common —</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>That I warrant, you are unwilling to be at the trouble of repeating them, becauſe perhaps ſome of them have been ſaid before, and are not all your own; prethee let not that breake ſquares between us, no matter whoſe or where they come; I ſhall be glad to hear Reaſon though as old as</hi> Adam, <hi>and Truth, (if a Man could meet with it) which they ſay is not aſham<g ref="char:EOLhyphen"/>ed to walk naked, has Charms, that not like other Beau<g ref="char:EOLhyphen"/>ties, are leſs agreeable or inviting, becauſe publick and common.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Then take that naked Truth, and own the Charms you give her; firſt by what juſt Autho<g ref="char:EOLhyphen"/>rity can the Church of <hi>England</hi> eſtabliſh Laws to puniſh <hi>Diſſent</hi> in Religion and Nonconformity of Worſhip! He that puniſhes, ought to be aſſured of a Wrong done, or an Evil committed by the Tranſgreſſor, or elſe both the Law con<g ref="char:EOLhyphen"/>demning and the puniſhment inflicted are unjuſt. But the Worſhip of God according to the beſt Light of a Chriſtian Conſcience, (and that's all the Crime the <hi>Diſſenter</hi> is puniſht for) is ſo far from Evil, that tis the higheſt duty of Chriſtia<g ref="char:EOLhyphen"/>nity. And can that Law be juſtified by the ſtan<g ref="char:EOLhyphen"/>dard of the Evangelical profeſſion, that ſo noto<g ref="char:EOLhyphen"/>riouſly reſtrains Men from ſo indiſpenſable a Duty.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Alas, you miſtake your ſelfe, theſe Laws do not reſtrain Men from that Worſhip of God, but rather compel'em to it: Are not all the Doctrines of the</hi> Church of England <hi>founded on holy Writ, and extracted from <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat ſacred fountain of Truth, the Goſpel. And has: not the wiſdom and care of our great Reformers weeded and purged the profeſſion of Chriſti<g ref="char:EOLhyphen"/>anity both in Doctrin and Worſhip, as now believed and practiſed in the</hi> Church of England, <hi>from all Inno<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap> and Errours whatever crept into it. And if God be the God of</hi> Order, <hi>where is Order and <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty think you, to be eſtabliſht; if not in the</hi> Church of God; <hi>and if that Order be ſo to be eſtabliſht there, as undoubtedly tis, ſhall we on the contrary open a Gate by</hi> Liberty of Conſcience, <hi>to let in all the diſſorder and confuſion, that ſuch Libertines and Enthuſiaſts can bring amongſt us. And is it ſo great a fault in our</hi> Penal Laws, <hi>or the</hi> Maternal care of <hi>a Church ſometimes in life the Rod to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> an</hi> Obſtinate <hi>and</hi> Diſobedient <hi>Son.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Truly Friend in this wide Anſwer of yours, you have not directly replyed to my Aſſertion: However, as you have here muſtered the very ſum total of all our Church has to urge in vin<g ref="char:EOLhyphen"/>dication of her <hi>Penal Laws;</hi> the Diſcuſſion there<g ref="char:EOLhyphen"/>fore of theſe her weightieſt pretended ponderous Arguments, and the Cutting this ſeeming knotty Gordian, will be no little Step towards adjuſting our Debate, and ſetting us to Rights.</p>
+               <p>In order to which, Firſt I believe not only the Doctrins of the <hi>Church of England,</hi> but the points in Controverſy between her and her <hi>Diſ<g ref="char:EOLhyphen"/>ſenters,</hi> (for theirs moſt of them and our Do<g ref="char:EOLhyphen"/>ctrines are the ſame) are founded on holy Writ, and extracted from thoſe ſacred Fountains of Truth, as you ſay. But pray have not ſe<g ref="char:EOLhyphen"/>veral of the <hi>Diſſenters</hi> the very ſame Baſis; the Scriptures too even for thoſe Tenents and points in differance between us.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>How now! I hope you are not for making the Scripture play the Satyr in the Fable, blow hot and cold both with one Breath; can the Scripture reconcile Contradictions? can Truth play the</hi> Janus? <hi>And can oppoſite points of Faith or Divine Rites of Worſhip be both at once ſupported by the ſacred Oracles of the Goſpel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I dare not tell you that they can, but this I dare tell you, as there is but <hi>one God</hi> and <hi>one Goſ<g ref="char:EOLhyphen"/>pel,</hi> ſo there are thoſe Great and Fundamental Truths, delivered in that Goſpel ſo <hi>plain</hi> and <hi>E<g ref="char:EOLhyphen"/>vident,</hi> that he that believes and practiſes accord<g ref="char:EOLhyphen"/>ingly, and to the height of his Ability, lives up to the precepts and commands contained in, and derived from thoſe Fundamental Truths, cannot err in the path to Salvation. But on the other ſide as there are ſeveral leſſer points contained al<g ref="char:EOLhyphen"/>ſo in, or deduced from that ſacred Volume of the revealed Myſteries, that from Generation to Generation have admitted of Diſpute, and which (without ſetting up an <hi>Infallible Judge</hi>) neither have been, are, or will be adjuſted to the end of the World: And conſequently, the numerous Chriſtian <hi>Diſſenters,</hi> in thoſe forementioned points of difference between us, neither are, or will be reconciled as long as the Sun and Moon en<g ref="char:EOLhyphen"/>dure; how unreaſonable therefore is the Inſti<g ref="char:EOLhyphen"/>tution of <hi>Penal Laws,</hi> to puniſh no other Tranſ<g ref="char:EOLhyphen"/>greſſion then this Impoſſible Reconciliation. And to bring it more home to the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> a Church that utterly diſowns any ſuch Infallible Judge, confeſſing her own and all other Fallibility: Her puniſhment of <hi>Diſſenters</hi> carries the moſt notorious face of Injuſtice, that all her. <hi>Eloquence</hi> can never anſwer, nor <hi>Sophiſtry</hi> it ſelf can palliate: For what aſſurance, <hi>as Fallible,</hi> can ſhe have, but that the <hi>Diſſenters</hi> in thoſe points in Difference, may be in the Right and her ſelf in the Wrong; and therefore with what forehead dares ſhe pretend, (in ſo tender a con<g ref="char:EOLhyphen"/>cern, as no leſs then the Liberties, Eſtates and Lives of her Diſſenting Brethren ſtruck at by our <hi>Penal Laws</hi>) to puniſh Diſſent as Erronious, when poſſibly the errour may be on the puniſh<g ref="char:EOLhyphen"/>ing and not on the offending ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Truly I ſhould be a</hi> Diſſenter <hi>my ſelf ſhould I dare contradict ſo eſtabliſhed an Opinion of our Church<pb facs="tcp:37339:3"/>as <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ability. And therefore I muſt acknowledge we <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ther aſſurance of the Right on our ſide, in the aforeſaid controverted Points, then founding our Truth (in that matter) in contradiction to their Miſ<g ref="char:EOLhyphen"/>take, only upon our Internal Evidence teſtifying for i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Judgment of Conſcience, that after a ſerious, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re and deliberate Examination, and from our own Int<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>petation of the Spiritual Records, decides in our own Favour, and gives Reaſon and Strength to our own Arguments and Opinions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>This very acknowledgement has undone you; for the <hi>Diſſenter</hi> himſelf has that very Light and Judgment of Conſcience, that in contradicti<g ref="char:EOLhyphen"/>on to all your Reaſons, decides for his own. And if no ſtronger a Light can erect <hi>Penal Laws,</hi> ſuppo<g ref="char:EOLhyphen"/>ſing our <hi>Church Government</hi> in the <hi>Diſſenters</hi> Hands, he has the ſame parity of Juſtice to turn all our own <hi>Penal Weapons,</hi> or others as ſharp, againſt the very Breaſt of the now <hi>Church of England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Troth, Friend, to give you your due, I think there's a little ſmall matter of Senſe, ſome little ſmat<g ref="char:EOLhyphen"/>tering of Reaſon in this Argument of yours, that, hang me, if at preſent I am provided with a Reply.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>No matter, hear the end of it, and lay your own and your helping Neighbours Heads together to anſwer it. He that is an Enemy to this Charter of Religious Liberty, and that de<g ref="char:EOLhyphen"/>fends our <hi>Penal Laws</hi> in matter of Religion and reſtraint of Conſcience, or endeavours the choice of thoſe Repreſentatives in Parliament, that ſhall uphold them, juſtifies the Deaths of every <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> that dyed by the Laws of Queen <hi>Mary,</hi> and all the Erection of <hi>Stakes</hi> and <hi>Inquiſition Houſes;</hi> and ought not in Juſtice to complain, were it poſſible that <hi>Popery</hi> ſhould ever be ſo reeſtabliſhed again in <hi>England</hi> (as that indeed it never can be)—</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Never! Are you ſure on't?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Yes never! But of that in its proper place. As I ſaid before, grant the ſuppoſition of the ſame reeſtabliſhment of <hi>Popery,</hi> He ought not to complain or murmur were the old <hi>Smithfeild Fires</hi> rekindled, and himſelf one of ahe Number that Blazed in their Flames.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Heyday, Here's a bold Lanch indeed. But I hope you are not ſerious, for if you are, you'll have tough work to vouch what you ſay.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Not ſo tough as you fancy: For to ſtate the Ballance between them. Our Church in Power and Dominion, upon the preſumption of being the <hi>True, Ancient and Apoſtolick Church,</hi> and her ſelf only in the right, ſets up Gibbets to pu<g ref="char:EOLhyphen"/>niſh her Erroneous Recuſants, and eſtabliſhes Jayls, Con<g ref="char:EOLhyphen"/>ſiſeations, Sequeſtrations, Abjurations, Baniſhments and Hal<g ref="char:EOLhyphen"/>ters here again too, to puniſh her erroneous Non-conformiſts. And pray did not the Church of <hi>Rome</hi> in Power and Dominion ſet up Fire and Fagot to puniſh her erroneous Recuſants too, under the ſame preſumption of being the <hi>true ancient Apoſto<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ick Church,</hi> her ſelf only in the right, and her Hereticks in the wrong. (I might have ſaid <hi>greater</hi> Preſumption, for her ſup<g ref="char:EOLhyphen"/>poſed Infalibility gives her a <hi>confidence</hi> of that right and wrong which our tenderer Modeſty only allows us <hi>Hopes</hi> of) And conſequently by the ſame Equity of Condemnation we tacitly avow her <hi>Hereteci Comburendi</hi> to be as honeſt and upright a Law (when in force) as 27th or 38th of <hi>Elizabeth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>But hold a little, my nimble Friend, I hope there's ſome little difference between the</hi> Church of Rome <hi>and the</hi> Church of England.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I undoubtedly a great one.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>And therefore I hope the Laws and Penalties to ſupport our Innocent Primitive Faith and Purity; as ſevere as you are pleas'd to repreſent them, and the Laws to ſupport ſuch an Errone<g ref="char:EOLhyphen"/>ous, Superſtitious, Idolatrous Religion as that of</hi> Rome <hi>bear ſome little Diſproportion,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Diſproportion! none at all: for grant all this outery of Errour Superſtition, <hi>&amp;c.</hi> againſt the <hi>Romiſh Religion,</hi> true: ſhe has as authentick a juſtification of her <hi>Penal Laws,</hi> as we can have of ours: We are indeed to conſider that the Scripture is that <hi>Ark</hi> or <hi>Cabinet,</hi> in which Gods <hi>Divine Truths</hi> are Repoſited, but with all <hi>ſo</hi> Repoſited, that the Key of Knowledg that opens to them, does not unlock to all Men a like. Tis not the abſolute and perfect Knowledge (for ſuch Perfection is not given us) of <hi>Good</hi> and <hi>Evil,</hi> and <hi>Truth</hi> and <hi>Falſehood</hi> in every entire <hi>Part</hi> and <hi>Particle:</hi> But only the <hi>Preſumptive</hi> Knowledge of them that ſets up Churches and Laws to ſupport them; and therefore the <hi>Romiſh Church</hi> with an Equal or (rather) more ſtrong Beleif of her Di<g ref="char:EOLhyphen"/>vine unerring Truth and uprightneſs, has as ſufficient and authorative warrant for her penal Inflictions in matter of Conſcience, as we can have for ours. And indeed powr in the Saddle, in any Church whatever; whether <hi>Chriſti<g ref="char:EOLhyphen"/>an, Jewiſh, Mahometan, or Heathen</hi> it ſelf, upon the gran<g ref="char:EOLhyphen"/>ted ſuppoſition of a human Right of Dominion over Conſci<g ref="char:EOLhyphen"/>ence, with the ſame (tho not ſo well gounded) a preſumti<g ref="char:EOLhyphen"/>on of Right on their ſide, has the ſame plea for all the Barbarities that <hi>Perſecution</hi> or <hi>Cruelty</hi> has, can, or ſhall commit. And therefore (as I ſaid before) he that upholds any ſuch penal Power of Reſtraint of the worſhip of God, and avows the government of Conſcience, any other then the pecular Province of the <hi>Almighty,</hi> and wholly without the Juriſdiction of Man, opens a boundleſs and inſatiate Torrent to all the licentiouſneſs of Tyranny, that <hi>mad Zeale,</hi> or <hi>Spiritual Pride</hi> under the Colour of a Law (for that they could not want) can ſet a floating. And theſe very Records, our <hi>Penal Statutes</hi> ſo uphold deprive us of all Right of <hi>Appeal</hi> even to God himſelf, againſt the Injuſtice or Oppreſſion of any Eccleſiaſtical Reſtraint of, or Perſecution for Conſcience, that any other Church whatever in power over us does or can excerciſe upon us. <hi>For what have we then more done to us then we our ſelves will to have done to others.</hi>
+               </p>
+               <p>And more particularly to the Diſſenters part, if they either infatuated or ſcarcrow'd out of their Reaſon, ſhall neglect the embracing of His Majeſties gracious Offer, and elect any Members of Parliament that they ſhall know are not in<g ref="char:EOLhyphen"/>clining to this Religious Liberty, they juſtifie not only the Fines, Impriſonments, Sequeſtrations, <hi>&amp;c.</hi> that the Mem<g ref="char:EOLhyphen"/>bers of their own Communion have from Time to Time, ſo violently Suffered from our <hi>Penal Laws;</hi> but alſo the <hi>Deaths</hi> and <hi>Blood</hi> alſo of ſo many <hi>Thouſands</hi> (for no leſs then <hi>Thouſands</hi> are their number) of their Brethren that have dyed in Jayle under the Reſtraint of thoſe <hi>Penal Laws.</hi> And conſequently they muſt either confeſs themſelves not in the Truth, in ex<g ref="char:EOLhyphen"/>erciſing that Religious Worſhip for which they ſo Suffered, or elſe that whole Congregations of Chriſtians, may and ought <hi>juſtly</hi> by Law to be deprived of <hi>Freedoms, Goods, Chat<g ref="char:EOLhyphen"/>tels, Eſtates,</hi> &amp;c. and to <hi>Rot, Starve</hi> and <hi>Periſh</hi> in Jayls, with <hi>Truth</hi> on their ſide; and that ſo Suffering for Truth, is Juſtice and Equity.</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Why truly Citty Friend theſe Reaſons carry an indiffe<g ref="char:EOLhyphen"/>rent fair Face with them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Indifferent only?</p>
+            </sp>
+            <sp>
+               <speaker>Coun.</speaker>
+               <p>
+                  <hi>Then ſuppoſe for</hi> once <hi>I granted your Point thus far. I have ſo many more Rubs and Blocks in your way ſtill, that you'll ſind no eaſie matter to get over.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Let us adjourn then this Evening, and come as freſh to morrow Morning with 'em as you can.</p>
+            </sp>
+            <pb facs="tcp:37339:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
